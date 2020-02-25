@@ -2,6 +2,21 @@ body {
   position: relative;
 }
 
+.main-logo {
+  display: initial; 
+  max-width: 550px;
+}
+
+@media (max-width: 768px) {
+  .main-logo {
+    max-width: 250px;
+  }
+
+  .about-img {
+    max-width: 300px;
+  }
+}
+
 .alert {
     font-size: 15px;
 }
@@ -33,8 +48,8 @@ body {
 }
 
 .thumbnail-mod{
-	border: 1px solid black;
-	max-width: 33.33;
+  border: 1px solid black;
+  max-width: 33.33;
 }
 
 h2{
