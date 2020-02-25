@@ -1,0 +1,231 @@
+body {
+  position: relative;
+}
+
+.alert {
+    font-size: 15px;
+}
+
+.alert.alert-info {
+    background-color: #4a8af4;
+}
+
+.logo-container .logo{
+    margin-top: 15px;
+    padding-left: 15px;
+}
+
+.index-page .brand {
+  margin-top: 35vh;
+}
+
+.logo img {
+  display: inline-block;
+  margin-top:-5px;
+}
+
+.wrapper > .header {
+  background-attachment: fixed;
+}
+
+.index-page .wrapper > .header {
+  height: 100vh;
+}
+
+.thumbnail-mod{
+	border: 1px solid black;
+	max-width: 33.33;
+}
+
+h2{
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+.cmd{
+    color: white;
+}
+
+.slk{
+  height: 50px;
+}
+
+.slk2{
+  height: 30px;
+  width: 72.5px;
+}
+
+.label-mod{
+  background-color: white;
+  color: black;
+  text-transform: none;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.vk{
+  padding: 5px 5px;
+}
+
+h6{
+  text-transform: none;
+}
+
+a{
+  text-transform: none;
+}
+
+.thumbnail {
+  border: 0;
+}
+
+.cmd-img{
+  width: 200px;
+  padding-top: 15px;
+}
+
+.navbar .navbar-nav > li > a {
+  font-size: 15px;
+  font-weight: 500;
+  color: #272727 ;
+}
+
+.navbar-transparent .navbar-nav > li > a {
+  color: #fff ;
+}
+
+.navbar .navbar-nav > .active > a, 
+.navbar .navbar-nav > .active > a:hover, 
+.navbar .navbar-nav > .active > a:focus,
+.navbar .navbar-nav > li > a:hover, 
+.navbar .navbar-nav > li > a:focus {
+  color: #3f82eb;
+}
+
+
+.schedule-info p{
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.2em;
+}
+
+.schedule-day {
+  font-size: 35px;
+    color: #fff;
+    line-height: 1.3em;
+}
+
+p{
+  font-size: 18px;
+  line-height: 2em;
+}
+
+.track-img{
+  width: 200px;
+}
+
+hr{
+  margin-bottom: 0;
+}
+
+.container-fluid{
+  margin-top: 40px;
+}
+
+#schedule{
+  border-radius: 4px;
+}
+
+.bg-clr-cmd{
+  background-color: #4a8af4;
+  padding-bottom: 35px;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.partner{
+  height: 142px;
+  width: 149px;
+  display: inline-block;
+}
+
+.contacts{
+  margin-top: 40px;
+}
+
+.logo > span {
+  color: #676767; 
+  font-size: 20px; 
+  font-weight: normal;
+  padding-left: 10px;
+}
+
+.navbar-transparent .logo > span {
+   color: #fff; 
+}
+
+.separator {
+    border: none;
+    margin: 20px 0;
+    height: 3px;
+    background-color: #50D0B7;
+}
+
+.caption > a > .slk {
+    height: 40px;
+}
+
+.caption > a {
+    padding: 0px 5px !important;
+}
+
+h4, .h4 {
+    font-size: 1.5em;
+}
+
+.info-partners a {
+  display:inline-block;
+  padding: 0px 2em;
+}
+
+.navbar, .navbar.navbar-default {
+    background-color: #fff;
+}
+
+.index-page .header-filter:after {
+    background: rgba(101, 47, 142, 0.64);
+    background: linear-gradient(135deg, rgba(78, 141, 245, 0.5) 0%, rgba(82, 136, 236, 0.85) 100%);
+    background: -moz-linear-gradient(135deg, rgba(78, 141, 245, 0.5) 0%, rgba(82, 136, 236, 0.85) 100%);
+    background: -webkit-linear-gradient(135deg, rgba(, 141, 245, 0.5) 0%, rgba(82, 136, 236, 0.85) 100%);
+}
+
+a, a:hover, a:focus {
+  text-decoration: none !important;
+  color: #4379d4;
+}
+
+li {
+  font-size: 16px;
+  line-height: 1.7em;
+}
+
+.caption > h4 {
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+
+.caption > p {
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+.btn.btn-success, .btn.btn-success:hover, .btn.btn-success:focus, .btn.btn-success:active, .btn.btn-success.active, .btn.btn-success:active:focus, .btn.btn-success:active:hover, .btn.btn-success.active:focus, .btn.btn-success.active:hover, .open > .btn.btn-success.dropdown-toggle, .open > .btn.btn-success.dropdown-toggle:focus, .open > .btn.btn-success.dropdown-toggle:hover, .navbar .navbar-nav > li > a.btn.btn-success, .navbar .navbar-nav > li > a.btn.btn-success:hover, .navbar .navbar-nav > li > a.btn.btn-success:focus, .navbar .navbar-nav > li > a.btn.btn-success:active, .navbar .navbar-nav > li > a.btn.btn-success.active, .navbar .navbar-nav > li > a.btn.btn-success:active:focus, .navbar .navbar-nav > li > a.btn.btn-success:active:hover, .navbar .navbar-nav > li > a.btn.btn-success.active:focus, .navbar .navbar-nav > li > a.btn.btn-success.active:hover, .open > .navbar .navbar-nav > li > a.btn.btn-success.dropdown-toggle, .open > .navbar .navbar-nav > li > a.btn.btn-success.dropdown-toggle:focus, .open > .navbar .navbar-nav > li > a.btn.btn-success.dropdown-toggle:hover {
+    background-color: #0cbda4;
+    font-weight: 500;
+}
+
+.index-page .header-filter:after {
+    background: rgba(0, 0, 0, 0.85);
+}
