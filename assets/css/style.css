@@ -109,6 +109,14 @@ a{
   color: #fff ;
 }
 
+.navbar-transparent .navbar-toggle { 
+  color: #fff ;
+}
+
+.navbar-toggle { 
+  color: #272727 ;
+}
+
 .navbar .navbar-nav > .active > a, 
 .navbar .navbar-nav > .active > a:hover, 
 .navbar .navbar-nav > .active > a:focus,
