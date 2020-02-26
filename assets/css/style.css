@@ -95,8 +95,7 @@ a{
 }
 
 .cmd-img{
-  width: 200px;
-  padding-top: 15px;
+  width: 350px;
 }
 
 .navbar .navbar-nav > li > a {
@@ -160,7 +159,7 @@ hr{
 }
 
 .bg-clr-cmd{
-  background-color: #4a8af4;
+  background: linear-gradient(90deg, #6084C4 0%, #50D0B7 100%);
   padding-bottom: 35px;
 }
 
@@ -251,4 +250,19 @@ li {
 
 .index-page .header-filter:after {
     background: rgba(0, 0, 0, 0.85);
+}
+
+.cmd-img {
+  border-color: #50D0B7;
+  border-width: 5px;
+  border-style: solid;
+}
+
+.speaker-info h3{
+  margin: 0px;
+}
+
+.speaker-info .report-info{
+  font-size: 18px;
+  line-height: 1.5em;
 }
