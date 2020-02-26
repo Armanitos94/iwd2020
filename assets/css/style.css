@@ -15,6 +15,10 @@ body {
   .about-img {
     max-width: 300px;
   }
+
+  .logo .city {
+    display: none !important;
+  }
 }
 
 .alert {
